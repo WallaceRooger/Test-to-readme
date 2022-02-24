@@ -62,10 +62,10 @@ You may be using [Google](https://www.google.com/).
 ## Blockquotes
 *PARA CITACOES DE BLOCO USE (>), PARA BLOCO COM RECUO USE (>>) QUANTO MAIS USAR O (>) MAIOR SERA O RECUO*
 
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
+> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz. (>)
 >
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
->>> CERTO DIA ENTREI NA LIFERAY, 
+>> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. (>>)
+>>> TEXTO CRIADO COM  UM NOVO RECUO, FOI UTILIZADO MAIS UM (>>>). 
 
 ## Tables
 *TABELAS*
